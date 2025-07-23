@@ -1,0 +1,37 @@
+{
+  "name": "telegram-mini-app",
+  "version": "1.0.0",
+  "description": "Telegram Mini App на Nuxt 3 с Pinia и TypeScript",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.11.2",
+    "nuxt": "^3.17.7",
+    "pinia": "^3.0.3",
+    "vue": "^3.5.17",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  },
+  "keywords": [
+    "telegram",
+    "mini-app",
+    "nuxt3",
+    "vue3",
+    "pinia",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KirillDolgopyatov/test_thapi.git"
+  }
+}
